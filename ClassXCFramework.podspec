@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
   s.name                    = 'ClassFramework'
-  s.version                 = '0.0.5'
+  s.version                 = '0.0.7'
   s.summary                 = 'ClassFramework summary.'
   s.homepage                = 'https://www.example.com/ClassFramework'
   s.author                  = { 'ClassFramework' => 'amanoj@athenahealth.com' }
